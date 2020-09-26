@@ -10,11 +10,11 @@ Thanks.
 
 
 # CHARACTERS CREDIT LIST:
-Peedy.acs  -maded by Microsoft
-ALIEN.acs  -maded by Greg Rotz
-Merlin.acs  -maded by Microsoft
-Bonzi.acs  -maded by Bonzi Software
-Character2.acs  -maded by Me
-Genie.acs  -maded by Microsoft
-Happy Face.acs  -maded by http://www.angelfire.com/realm/msagent/
-MaxALERT.acs  -maded by Bonzi Software
+Peedy.acs  -maded by Microsoft     
+ALIEN.acs  -maded by Greg Rotz     
+Merlin.acs  -maded by Microsoft     
+Bonzi.acs  -maded by Bonzi Software     
+Character2.acs  -maded by Me     
+Genie.acs  -maded by Microsoft     
+Happy Face.acs  -maded by http://www.angelfire.com/realm/msagent/     
+MaxALERT.acs  -maded by Bonzi Software     
