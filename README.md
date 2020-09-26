@@ -10,7 +10,7 @@ Thanks.
 
 
 # CHARACTERS CREDIT LIST:
-Peedy.acs  -maded by Microsoft     
+Peedy.ACS  -maded by Microsoft     
 ALIEN.acs  -maded by Greg Rotz     
 Merlin.acs  -maded by Microsoft     
 Bonzi.acs  -maded by Bonzi Software     
